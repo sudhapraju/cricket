@@ -5,3 +5,13 @@ pappi
 chiru
 sanjay
 kumar
+Dell@Dell-PC MINGW64 ~/desktop/facebook (master)
+$ git fetch origin master
+remote: Enumerating objects: 5, done.
+remote: Counting objects: 100% (5/5), done.
+remote: Compressing objects: 100% (3/3), done.
+remote: Total 3 (delta 1), reused 0 (delta 0), pack-reused 0
+Unpacking objects: 100% (3/3), 671 bytes | 4.00 KiB/s, done.
+From https://github.com/prajwalsinchu/facebook
+ * branch            master     -> FETCH_HEAD
+   c32e062..f71fd91  master     -> origin/master
