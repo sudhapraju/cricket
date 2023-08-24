@@ -8,3 +8,12 @@ remote: Total 27 (delta 3), reused 22 (delta 1), pack-reused 0
 Receiving objects: 100% (27/27), done.
 Resolving deltas: 100% (3/3), done.
 
+***** 11]  When will be use the git pull command ??
+
+ans : Before developing any piece of code , first we have take the updated code , then we have use git pull command .
+
+***** 12] When will be use git fetch / git merge command ??
+
+ans:  If boss told , plz take updated code from remote repository , it will started work --->> then we use the git fetch and git merge commands .
+
+
