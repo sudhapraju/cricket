@@ -1,0 +1,10 @@
+Dell@Dell-PC MINGW64 ~/desktop/facebook (master)
+$ git clone https://github.com/prajwalsinchu/facebook.git            ---------->> Another account --->> facebook repo ------>> code --> http url
+Cloning into 'facebook'...
+remote: Enumerating objects: 27, done.
+remote: Counting objects: 100% (27/27), done.
+remote: Compressing objects: 100% (18/18), done.
+remote: Total 27 (delta 3), reused 22 (delta 1), pack-reused 0
+Receiving objects: 100% (27/27), done.
+Resolving deltas: 100% (3/3), done.
+
