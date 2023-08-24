@@ -1,2 +1,34 @@
 prajwal
+If 100 code ---->> Informational
+If 200 code --->> success
+If 300 code is there --->> Redirection
+
+If 400 code is there ------->> client side issues .
+
+along 400 code ----> Bad request
+401---> Unauthorized
+402 ---> Payment required
+403 --> forbidden
+404  ---> Not found
+405 ---> Method not allowed
+406 ---> Not acceptable
+407---> Proxy autentication required
+408 ---> Request timeout
+409  ---> conflict
+410 ---> Gone
+
+If 500 code is there ------->> server side issues ,
+
+Along 500 code ---> Internal server error
+501---> Not implemented
+502---> Bad gateway
+503---> Service unavialable
+504 --> Gateway timeout
+505---> HTTP version not found
+506 ---> Variant also negotitas
+507 ---> Insufficient storage
+508 ---> Loop detected 
+509 ---> Band width limit exceeded
+510 ---> Not extended
+
 
