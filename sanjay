@@ -1,0 +1,18 @@
+* what the project does
+* why the project is usefull
+*how users can get started with the project
+* where users can get help with your project
+* who maintains contribute the projects
+
+
+** GIT BEST PRACTICES :
+====================
+
+1} Use branching strategy and pull requests
+2} Commit once you finish the task
+3} Dont commit Half done work
+4} Write good commit msg before u are commiting
+5} Try to use git commands rather then GUI tools
+6} Avoid merge commits
+
+
