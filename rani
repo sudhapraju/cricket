@@ -1,0 +1,15 @@
+iam prajwal sinchana sudha savithramma pappi chiru sanjay kumar
+PULL REQUEST :
+==============
+
+We knoe already , as a devloper develop the code , commit the code to Local repositery and push the code from Local to Remote repositary .
+
+Once as a devloper develop the code , commit the code to Local repositery and push the code from Local to Remote repositary . Next Developer will create the Pull Request .
+
+1} Now How to create a Pull request ??
+
+ans : Assume , Now iam in stage branch , then we go edit the some file ----->  DBUtils.java ---> updateing the file PR demo.  .----. then save it 
+
+Next change to master branch ---.> Next we check in ---> DBUtils.java -----> the update code not show it .
+
+we need intigrete to the one branch to another branch .------>> we are going to Pull Request .
